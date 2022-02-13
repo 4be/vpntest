@@ -1,7 +1,3 @@
-- name: Connect-VPN
-  uses: golfzaptw/action-connect-ovpn@2.0.1
-
-
  connect-open-vpn:
     runs-on: ubuntu-latest
     steps:
